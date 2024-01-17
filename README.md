@@ -16,6 +16,5 @@ Some of the challenges I faced
 - Line sensors glitching --> Fixed this by setting the bot to sleep to act as a reset
 
 ### Demonstration
-https://youtu.be/ivWF7WK6NGI
+[![Live Demonstration](https://img.youtube.com/vi/ivWF7WK6NGI/0.jpg)](https://www.youtube.com/watch?v=ivWF7WK6NGI)
 
-[![Demonstration Videoxz]](https://youtu.be/ivWF7WK6NGI)
